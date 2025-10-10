@@ -24,4 +24,4 @@ docker-target
 .rollup.cache/
 test-keypair.json
 tsconfig.tsbuildinfo
-.vscode
+config.bat
